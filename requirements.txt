@@ -5,3 +5,4 @@ langchain-experimental
 pandas
 plotly
 streamlit
+tabulate
