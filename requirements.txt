@@ -3,3 +3,4 @@ langchain
 pandas
 plotly
 streamlit
+dotenv
