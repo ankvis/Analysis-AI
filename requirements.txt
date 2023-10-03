@@ -1,6 +1,6 @@
+python-dotenv
 openai
 langchain
 pandas
 plotly
 streamlit
-dotenv
