@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Streamlit web application is an experimental project that enables users to perform data analysis on CSV files and databases. It allows users to query the data using natural language in English and provides interactive visualizations to aid in data understanding.
+This Streamlit web application is an experimental project that enables users to perform data analysis on CSV files. It allows users to query the data using natural language in English with excel sheets and databases.
 
 **Note: This app is experimental and is subject to change.**
 
